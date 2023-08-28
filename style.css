@@ -1,0 +1,12 @@
+table,td,th{
+	border-style: solid;
+	border-collapse: collapse;
+}
+th{
+	background-color: grey;
+}
+*{background-color:blue;}
+td{background-color:aqua;}
+ul{background-color:aqua; }
+li{background-color:aqua;}
+table{margin-left: 250px;}
